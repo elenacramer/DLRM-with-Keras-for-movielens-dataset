@@ -1,0 +1,30 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+ipykernel = "*"
+
+[packages]
+tensorflow = "*"
+keras = "*"
+pandas = "*"
+numpy = "*"
+scikit-learn = "*"
+zipfile = "*"
+suprise = "*"
+scikit-surprise = "*"
+matplotlib = "*"
+seaborn = "*"
+categorical-encodings = "*"
+category-encoders = {editable = true,git = "https://github.com/scikit-learn-contrib/categorical-encoding.git"}
+setup-py = "*"
+setuptools = "*"
+categorical-encoders = "*"
+categorica-encoders = "*"
+statsmodel = "*"
+statsmodels = "*"
+
+[requires]
+python_version = "3.6"
