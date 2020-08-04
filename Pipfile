@@ -25,6 +25,9 @@ categorical-encoders = "*"
 categorica-encoders = "*"
 statsmodel = "*"
 statsmodels = "*"
+ipykernel = "*"
+all = "*"
+depedencies = "*"
 
 [requires]
 python_version = "3.6"
