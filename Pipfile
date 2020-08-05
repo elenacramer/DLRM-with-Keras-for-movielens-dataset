@@ -28,6 +28,7 @@ statsmodels = "*"
 ipykernel = "*"
 all = "*"
 depedencies = "*"
+h5py = "*"
 
 [requires]
 python_version = "3.6"
